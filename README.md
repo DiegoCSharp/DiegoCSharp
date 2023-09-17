@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Diego Silva ✌️
 
 
--   🌱 Estudadndo C# e .NET
+-   🌱 Estudando C# e .NET
 -   👨🏽‍💻 Pronome Ele/Dele
      
 
