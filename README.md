@@ -2,6 +2,7 @@
 
 
 -   🌱 Estudando C# e .NET
+-   🌳 Conhecimento em DBA (Database Analysis)
 -   👨🏽‍💻 Pronome Ele/Dele
      
 
